@@ -2,7 +2,7 @@ Python 3.10.2
 
 Установка
 
-Для настройки приложения выполните клонирование репозитория с помощью команды: git clone https://gitlab.com/dvtarkov/uptrader-test.git
+Для настройки приложения выполните клонирование репозитория с помощью команды: git clone https://github.com/wadimba777/test_uptrader.git
 
 
 Установите необходимые зависимости: pip install -r requirements.txt
